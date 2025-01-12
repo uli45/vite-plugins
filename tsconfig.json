@@ -1,0 +1,11 @@
+{
+  "extends": "@mistjs/tsconfig-vue",
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
