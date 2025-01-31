@@ -1,6 +1,7 @@
 {
   "extends": "@mistjs/tsconfig-vue",
   "compilerOptions": {
+    "baseUrl": "./",
     "target": "ES6",
     "module": "esnext",
     "moduleResolution": "node",
